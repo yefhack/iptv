@@ -19,10 +19,10 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m
 
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" tvg-name="SONY"  group-title="SERIES",SONY
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONY/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/WARNERCHANNEL.png" tvg-name="WARNER"  group-title="SERIES",WARNER CHANNEL
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WARNER/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FOXCHANNEL.png" tvg-name="FOXCHANNEL"  group-title="SERIES",FOX CHANNEL
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXCHANNEL/20-hls/live-media.m3u8
+#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/WARNERCHANNEL.png" tvg-name="WARNER"  group-title="SERIES",WARNER CHANNEL HD
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WARNERCHANNEL/40-hls/live-media.m3u8
+#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FOXCHANNEL.png" tvg-name="FOXCHANNEL"  group-title="SERIES",FOX CHANNEL HD
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXCHANNEL/40-hls/live-media.m3u8
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" tvg-name="UNIVERSAL"  group-title="SERIES",UNIVERSAL
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UNIVERSAL/20-hls/live-media.m3u8
 #EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/ID.png" tvg-name="ID"  group-title="SERIES",ID
