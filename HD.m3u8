@@ -5,136 +5,132 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/BHTV/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/AMERICATV.png" tvg-name="AMERICATV" group-title="NOTICIAS", AMERICA TV HD
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERICATV/40-hls/live-media.m3u8
-#EXTINF:-1, tvg-logo="https://cablego.com.pe/cache/logos/PANAMERICANATV.png" tvg-name="PANAMERICANATV"  group-title="NOTICIAS", PANAMERICANA TV HD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/PANAMERICANATV.png" tvg-name="PANAMERICANATV" group-title="NOTICIAS", PANAMERICANA TV HD
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8
-#EXTINF:-1, tvg-logo="https://cablego.com.pe/cache/logos/WILLAX.png" tvg-name="WILLAX"  group-title="NOTICIAS", WILLAX TV HD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/WILLAX.png" tvg-name="WILLAX" group-title="NOTICIAS", WILLAX TV HD
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8
-#EXTINF:-1, tvg-logo="https://cablego.com.pe/cache/logos/TVPERU.png" tvg-name="TVPERU"  group-title="NOTICIAS", TVPERU TV HD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/TVPERU.png" tvg-name="TVPERU" group-title="NOTICIAS", TVPERU TV HD
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/ATVHD.png" tvg-name="ATV"  group-title="NOTICIAS",ATV HD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/ATVHD.png" tvg-name="ATV" group-title="NOTICIAS", ATV HD
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ATV/40-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/EXITOSATV.png" tvg-name="EXITOSATV"  group-title="NOTICIAS",EXITOSATV HD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/EXITOSATV.png" tvg-name="EXITOSATV" group-title="NOTICIAS", EXITOSATV HD
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m3u8
-
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" tvg-name="SONY"  group-title="SERIES",SONY
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/SONY.png" tvg-name="SONY"  group-title="SERIES",SONY
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONY/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/WARNERCHANNEL.png" tvg-name="WARNER"  group-title="SERIES",WARNER CHANNEL HD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/WARNERCHANNEL.png" tvg-name="WARNER"  group-title="SERIES",WARNER CHANNEL HD
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WARNERCHANNEL/40-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FOXCHANNEL.png" tvg-name="FOXCHANNEL"  group-title="SERIES",FOX CHANNEL HD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/FOXCHANNEL.png" tvg-name="FOXCHANNEL"  group-title="SERIES",FOX CHANNEL HD
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXCHANNEL/40-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" tvg-name="UNIVERSAL"  group-title="SERIES",UNIVERSAL
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/UNIVERSAL.png" tvg-name="UNIVERSAL"  group-title="SERIES",UNIVERSAL
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UNIVERSAL/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/ID.png" tvg-name="ID"  group-title="SERIES",ID
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/ID.png" tvg-name="ID"  group-title="SERIES",ID
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ID/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/CINEPREMIUM.png" tvg-name="CINEPREMIUM"  group-title="CINE",CINE PREMIUM
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/CINEPREMIUM.png" tvg-name="CINEPREMIUM"  group-title="CINE",CINE PREMIUM
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CINEPREMIUM/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/SYFY.png" tvg-name="SYFY"  group-title="SERIES",SYFY
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/SYFY.png" tvg-name="SYFY"  group-title="SERIES",SYFY
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SYFY/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FX.png" tvg-name="FX"  group-title="SERIES",FX
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/FX.png" tvg-name="FX"  group-title="SERIES",FX
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FX/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" tvg-name="AMC"  group-title="CINE",AMC
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/AMC.png" tvg-name="AMC"  group-title="CINE",AMC
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMC/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/CINECLICK.png" tvg-name="CINECLICK"  group-title="CINE",CINE CLICK
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/CINECLICK.png" tvg-name="CINECLICK"  group-title="CINE",CINE CLICK
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CINECLICK/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/PARAMOUNTCH.png" tvg-name="PARAMOUNTCHANNEL"  group-title="SERIES",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/PARAMOUNTCH.png" tvg-name="PARAMOUNTCHANNEL"  group-title="SERIES",PARAMOUNT CHANNEL
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNTCHANNEL/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/CINECANAL.png" tvg-name="CINECANAL"  group-title="CINE",CINECANAL HD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/CINECANAL.png" tvg-name="CINECANAL"  group-title="CINE",CINECANAL HD
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CINECANAL/40-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/HOLLYWOODCH.png" tvg-name="HOLLYWOODCHANNEL"  group-title="CINE",HOLLYWOOD CHANNEL
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/HOLLYWOODCH.png" tvg-name="HOLLYWOODCHANNEL"  group-title="CINE",HOLLYWOOD CHANNEL
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HOLLYWOODCHANNEL/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" tvg-name="DISCOVERYCH"  group-title="SERIES",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" tvg-name="DISCOVERYCH"  group-title="SERIES",DISCOVERY CHANNEL
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYCH/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" tvg-name="HISTORYCHANNEL"  group-title="SERIES",HISTORY CHANNEL
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" tvg-name="HISTORYCHANNEL"  group-title="SERIES",HISTORY CHANNEL
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HISTORYCHANNEL/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/HISTORY2.png" tvg-name="HISTORY2"  group-title="SERIES",HISTORY 2 
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/HISTORY2.png" tvg-name="HISTORY2"  group-title="SERIES",HISTORY 2 
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HISTORY2/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/NATGEO.png" tvg-name="NATGEO"  group-title="SERIES",NATGEO
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/NATGEO.png" tvg-name="NATGEO"  group-title="SERIES",NATGEO
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NATGEO/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" tvg-name="ANIMALPLANET"  group-title="SERIES",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" tvg-name="ANIMALPLANET"  group-title="SERIES",ANIMAL PLANET
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYSCIENCE.png" tvg-name="DISCOVERYSCIENCE"  group-title="SERIES",DISCOVERY SCIENCE 
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYSCIENCE.png" tvg-name="DISCOVERYSCIENCE"  group-title="SERIES",DISCOVERY SCIENCE 
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYTURBO.png" tvg-name="DISCOVERYTURBO"  group-title="SERIES",DISCOVERY TURBO
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYTURBO.png" tvg-name="DISCOVERYTURBO"  group-title="SERIES",DISCOVERY TURBO
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/AZCORAZON.png" tvg-name="AZCORAZON"  group-title="SERIES",AZ CORAZON
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/AZCORAZON.png" tvg-name="AZCORAZON"  group-title="SERIES",AZ CORAZON
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/KANALD.png" tvg-name="KANALD"  group-title="SERIES",KANAL D 
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/KANALD.png" tvg-name="KANALD"  group-title="SERIES",KANAL D 
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/KANALD/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/HOMEANDHEALTH.png" tvg-name="HOMEANDHEALTH"  group-title="SERIES",HOME & HEALTH
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/HOMEANDHEALTH.png" tvg-name="HOMEANDHEALTH"  group-title="SERIES",HOME & HEALTH
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/TRAVELANDLIVING.png" tvg-name="TRAVELANDLIVING"  group-title="SERIES",TRAVELAND LIVING
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/TRAVELANDLIVING.png" tvg-name="TRAVELANDLIVING"  group-title="SERIES",TRAVELAND LIVING
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TRAVELANDLIVING/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/MASCHIC.png" tvg-name="MASCHIC"  group-title="SERIES",MAS CHIC 
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/MASCHIC.png" tvg-name="MASCHIC"  group-title="SERIES",MAS CHIC 
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/MASCHIC/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FOXLIFE.png" tvg-name="FOXLIFE"  group-title="SERIES",FOX LIFE
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/FOXLIFE.png" tvg-name="FOXLIFE"  group-title="SERIES",FOX LIFE
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXLIFE/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/GOURMET.png" tvg-name="GOURMET"  group-title="SERIES",GOURMET
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/GOURMET.png" tvg-name="GOURMET"  group-title="SERIES",GOURMET
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/GOURMET/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYKIDS.png" tvg-name="DISCOVERYKIDS"  group-title="INFANTIL",DISCOVERY KIDS 
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYKIDS.png" tvg-name="DISCOVERYKIDS"  group-title="INFANTIL",DISCOVERY KIDS 
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYKIDS/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/DISNEYXD.png" tvg-name="DISNEYXD"  group-title="INFANTIL",DISNEY XD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/DISNEYXD.png" tvg-name="DISNEYXD"  group-title="INFANTIL",DISNEY XD
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISNEYXD/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/DISNEYJUNIOR.png" tvg-name="DISNEYJUNIOR"  group-title="INFANTIL",DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/DISNEYJUNIOR.png" tvg-name="DISNEYJUNIOR"  group-title="INFANTIL",DISNEY JUNIOR
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYJUNIOR/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/DISNEYCHANNEL.png" tvg-name="DISNEYCHANNEL"  group-title="INFANTIL",DISNEY CHANNEL 
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/DISNEYCHANNEL.png" tvg-name="DISNEYCHANNEL"  group-title="INFANTIL",DISNEY CHANNEL 
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/NICKTOONS.png" tvg-name="NICKTOONS"  group-title="INFANTIL",NICKTOONS
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/NICKTOONS.png" tvg-name="NICKTOONS"  group-title="INFANTIL",NICKTOONS
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKTOONS/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FOXSPORTS.png" tvg-name="FOXSPORTS"  group-title="DEPORTE",FOXSPORTS HD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/FOXSPORTS.png" tvg-name="FOXSPORTS"  group-title="DEPORTE",FOXSPORTS HD
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FOXSPORTS2.png" tvg-name="FOXSPORTS2"  group-title="DEPORTE",FOXS PORTS 2 HD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/FOXSPORTS2.png" tvg-name="FOXSPORTS2"  group-title="DEPORTE",FOXS PORTS 2 HD
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FOXSPORTS3.png" tvg-name="FOXSPORTS3"  group-title="DEPORTE",FOX SPORTS 3 HD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/FOXSPORTS3.png" tvg-name="FOXSPORTS3"  group-title="DEPORTE",FOX SPORTS 3 HD
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/ESPN2.png" tvg-name="ESPN2"  group-title="DEPORTE",ESPN2 HD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/ESPN2.png" tvg-name="ESPN2"  group-title="DEPORTE",ESPN2 HD
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/ESPN3.png" tvg-name="ESPN3"  group-title="DEPORTE",ESPN3
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/ESPN3.png" tvg-name="ESPN3"  group-title="DEPORTE",ESPN3
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN3/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FRANCE24.png" tvg-name="FRANCE24"  group-title="TOUR DE CORRESPONSAL",FRANCE24 HD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/FRANCE24.png" tvg-name="FRANCE24"  group-title="TOUR DE CORRESPONSAL",FRANCE24 HD
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FRANCE24/40-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/RTRUSIA.png" tvg-name="ESPN2"  group-title="NOTICIAS",RT RUSIA
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/RTRUSIA.png" tvg-name="ESPN2"  group-title="NOTICIAS",RT RUSIA
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/RTRUSIA/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/DW.png" tvg-name="ESPN3"  group-title="RELIGION",DW
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/DW.png" tvg-name="ESPN3"  group-title="RELIGION",DW
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DW/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/MTV.png" tvg-name="MTV"  group-title="MUSICA",MTV
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/MTV.png" tvg-name="MTV"  group-title="MUSICA",MTV
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/MTV/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/KARIBENA.png" tvg-name="KARIBENA"  group-title="MUSICA LOCAL",KARIBEÑA
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/KARIBENA.png" tvg-name="KARIBENA"  group-title="MUSICA LOCAL",KARIBEÑA
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/karibena/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/TELENOSTALGIA.png" tvg-name="TELENOSTALGIA"  group-title="TELE NOSTALGIA",TELENOSTALGIA
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/TELENOSTALGIA.png" tvg-name="TELENOSTALGIA"  group-title="TELE NOSTALGIA",TELENOSTALGIA
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELENOSTALGIA/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/TELEFE.png" tvg-name="TELEFE"  group-title="INTERNACIONALES",TELEFE
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/TELEFE.png" tvg-name="TELEFE"  group-title="INTERNACIONALES",TELEFE
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/TRECEARGENTINA.png" tvg-name="TRECEARGENTINA"  group-title="INTERNACIONALES",TRECE ARGENTINA
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/TRECEARGENTINA.png" tvg-name="TRECEARGENTINA"  group-title="INTERNACIONALES",TRECE ARGENTINA
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/TVE.png" tvg-name="TVE"  group-title="INTERNACIONALES",TVE HD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/TVE.png" tvg-name="TVE"  group-title="INTERNACIONALES",TVE HD
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVE/40-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/TVCHILE.png" tvg-name="TVCHILE"  group-title="INTERNACIONALES",TV CHILE
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/TVCHILE.png" tvg-name="TVCHILE"  group-title="INTERNACIONALES",TV CHILE
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVCHILE/20-hls/live-media.m3u8
-
-
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" tvg-name="CINEMAX"  group-title="CINE",CINEMAX HD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/CINEMAX.png" tvg-name="CINEMAX"  group-title="CINE",CINEMAX HD
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CINEMAX/40-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/LIFETIME.png" tvg-name="LIFETIME"  group-title="SERIES",LIFETIME
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/LIFETIME.png" tvg-name="LIFETIME"  group-title="SERIES",LIFETIME
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/LIFETIME/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/HGTV.png" tvg-name="HGTV"  group-title="INTERNACIONALES",HGTV
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/HGTV.png" tvg-name="HGTV"  group-title="INTERNACIONALES",HGTV
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HGTV/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/NICKJR.png" tvg-name="NICKJR"  group-title="INFANTIL",NICKJR
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/NICKJR.png" tvg-name="NICKJR" group-title="INFANTIL",NICKJR
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKJR/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/ZOOMOO.png" tvg-name="ZOOMOO"  group-title="INFANTIL",ZOOMOO
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/ZOOMOO.png" tvg-name="ZOOMOO" group-title="INFANTIL",ZOOMOO
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ZOOMOO/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/NATGEOKIDS.png" tvg-name="NATGEOKIDS"  group-title="INFANTIL",NATGEO KIDS
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/NATGEOKIDS.png" tvg-name="NATGEOKIDS" group-title="INFANTIL",NATGEO KIDS
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NATGEOKIDS/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/NATGEOWILD.png" tvg-name="NATGEOWILD"  group-title="INTERNACIONALES",NATGEOWILD
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/NATGEOWILD.png" tvg-name="NATGEOWILD" group-title="INTERNACIONALES",NATGEOWILD
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NATGEOWILD/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/AXN.png" tvg-name="AXN"  group-title="SERIES",AXN
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/AXN.png" tvg-name="AXN" group-title="SERIES",AXN
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AXN/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/FXM.png" tvg-name="FXM"  group-title="SERIES",FXM
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/FXM.png" tvg-name="FXM" group-title="SERIES",FXM
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FXM/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/TELEMUNDO.png" tvg-name="TELEMUNDO"  group-title="INTERNACIONALES",TELEMUNDO
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/TELEMUNDO.png" tvg-name="TELEMUNDO" group-title="INTERNACIONALES",TELEMUNDO
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8
-
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/VENUS.png" tvg-name="VENUS"  group-title="ADULTOSN",VENUS
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/VENUS.png" tvg-name="VENUS" group-title="ADULTOSN",VENUS
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/VENUS/20-hls/live-media.m3u8
-#EXTINF:-1,  tvg-logo="https://cablego.com.pe/cache/logos/PLAYBOY.png" tvg-name="PLAYBOY"  group-title="ADULTOSN",PLAYBOY
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/PLAYBOY.png" tvg-name="PLAYBOY" group-title="ADULTOSN",PLAYBOY
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PLAYBOY/20-hls/live-media.m3u8
 
