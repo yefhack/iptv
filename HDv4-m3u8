@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 [COLOR blue][I]- CANALES DE TV HD-[/COLOR] [/I]
 #EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/LATINA.png" tvg-name="LATINA"  group-title="NOTICIAS",LATINA HD
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/BHTV.png" tvg-name="BHTV"  group-title="NOTICIAS",BHTV HD
