@@ -163,3 +163,5 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/IVCNETWORKS/40-hls/live-media
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/VENUS/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/PLAYBOY.png" tvg-name="PLAYBOY"  group-title="ADULTOSN",PLAYBOY
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PLAYBOY/40-hls/live-media.m3u8
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos/LATINA.png" tvg-name="LATINA2"  group-title="NOTICIAS",LATINA2 HD
+https://live-normal-claro-hls.latina.pe/egress/bhandler/cialatina/live/chunklist_b950272.m3u8?nva=1627524990&ttl=432000&ip=2800:200:e240:f19:9941:9b08:aeb5:d04e&hash=0b688daaeb714032ee7e2
